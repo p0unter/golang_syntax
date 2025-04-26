@@ -1,0 +1,1106 @@
+[
+    {
+        "ask": "Dünyanın en yüksek dağı, Nepal ve Çin sınırında bulunur",
+        "ans": "Everest",
+        "tabkeys": [
+            "dağ",
+            "yüksek",
+            "Nepal",
+            "Çin",
+            "zirve",
+            "tırmanış",
+            "Himalayalar",
+            "uçurum",
+            "kar",
+            "buz"
+        ]
+    },
+    {
+        "ask": "Bilgisayarların temel işlem birimi, bilgi işleyen elektronik devre",
+        "ans": "Mikroişlemci",
+        "tabkeys": [
+            "bilgisayar",
+            "işlem",
+            "elektronik",
+            "devre",
+            "CPU",
+            "chip",
+            "hız",
+            "program",
+            "donanım",
+            "mantık"
+        ]
+    },
+    {
+        "ask": "Uzayda dolaşan insan yapımı yörünge aracı",
+        "ans": "Uydu",
+        "tabkeys": [
+            "uzay",
+            "yörünge",
+            "araç",
+            "haberleşme",
+            "görev",
+            "gözlem",
+            "sinyal",
+            "fırlatma",
+            "kamera",
+            "teknoloji"
+        ]
+    },
+    {
+        "ask": "Sanatın ve bilimin birleştiği, estetik ve teknikle ilgili alan",
+        "ans": "Mimarlık",
+        "tabkeys": [
+            "tasarım",
+            "bina",
+            "sanat",
+            "inşaat",
+            "plan",
+            "çizim",
+            "proje",
+            "kentsel",
+            "yapı",
+            "estetik"
+        ]
+    },
+    {
+        "ask": "İnsan vücudundaki en büyük organ, koruyucu tabaka",
+        "ans": "Deri",
+        "tabkeys": [
+            "vücut",
+            "organ",
+            "koruma",
+            "cilt",
+            "dış",
+            "dokunma",
+            "kan",
+            "renk",
+            "hücre",
+            "yara"
+        ]
+    },
+    {
+        "ask": "Halk arasında ‘kara ölüm’ olarak bilinen Orta Çağ salgını",
+        "ans": "Veba",
+        "tabkeys": [
+            "salgın",
+            "orta çağ",
+            "hastalık",
+            "ölüm",
+            "bakteri",
+            "fare",
+            "siyah",
+            "leke",
+            "bulaşıcı",
+            "pandemi"
+        ]
+    },
+    {
+        "ask": "Dünyanın en uzun nehri, Afrika kıtasında bulunur",
+        "ans": "Nil Nehri",
+        "tabkeys": [
+            "nehir",
+            "Afrika",
+            "uzun",
+            "su",
+            "akarsu",
+            "Mısır",
+            "vadisi",
+            "delta",
+            "kanal",
+            "sulama"
+        ]
+    },
+    {
+        "ask": "Elektrik enerjisini mekanik enerjiye dönüştüren aygıt",
+        "ans": "Motor",
+        "tabkeys": [
+            "elektrik",
+            "enerji",
+            "mekanik",
+            "dönüşüm",
+            "makine",
+            "döner",
+            "güç",
+            "araba",
+            "cihaz",
+            "hareket"
+        ]
+    },
+    {
+        "ask": "Bir ülkenin en yüksek yürütme makamı, devlet başkanı",
+        "ans": "Cumhurbaşkanı",
+        "tabkeys": [
+            "devlet",
+            "başkan",
+            "ülke",
+            "yönetici",
+            "seçim",
+            "hükümet",
+            "meclis",
+            "siyaset",
+            "yetki",
+            "kanun"
+        ]
+    },
+    {
+        "ask": "Bir dildeki kelimelerin ve anlamlarının toplamı",
+        "ans": "Sözlük",
+        "tabkeys": [
+            "kelime",
+            "anlam",
+            "dil",
+            "tanım",
+            "kitap",
+            "okuma",
+            "yazım",
+            "terim",
+            "anlatım",
+            "alfabe"
+        ]
+    },
+    {
+        "ask": "Deniz seviyesinden yüksekliği ölçmek için kullanılan araç",
+        "ans": "Altimetre",
+        "tabkeys": [
+            "yükseklik",
+            "ölçüm",
+            "deniz",
+            "seviye",
+            "cihaz",
+            "pilot",
+            "uçak",
+            "hava",
+            "barometre",
+            "sensör"
+        ]
+    },
+    {
+        "ask": "Halk arasında ‘kızıl hastalık’ olarak da bilinen bulaşıcı hastalık",
+        "ans": "Kızamık",
+        "tabkeys": [
+            "hastalık",
+            "bulaşıcı",
+            "ateş",
+            "döküntü",
+            "çocuk",
+            "virüs",
+            "aşı",
+            "öksürük",
+            "burun",
+            "boğaz"
+        ]
+    },
+    {
+        "ask": "Uzun süreli hafıza kaybına neden olan beyin hastalığı",
+        "ans": "Alzheimer",
+        "tabkeys": [
+            "hafıza",
+            "beyin",
+            "hastalık",
+            "unutkanlık",
+            "yaşlılık",
+            "sinir",
+            "hücre",
+            "demans",
+            "tedavi",
+            "kayıp"
+        ]
+    },
+    {
+        "ask": "Bir cismin hareketini ve konumunu inceleyen bilim dalı",
+        "ans": "Fizik",
+        "tabkeys": [
+            "bilim",
+            "hareket",
+            "enerji",
+            "madde",
+            "doğa",
+            "kuvvet",
+            "ışık",
+            "elektrik",
+            "atom",
+            "formül"
+        ]
+    },
+    {
+        "ask": "Uzun yıllar boyunca kullanılan, tarihi eser niteliğinde eşya",
+        "ans": "Antika",
+        "tabkeys": [
+            "tarih",
+            "eşya",
+            "eski",
+            "koleksiyon",
+            "değer",
+            "müzayede",
+            "sanat",
+            "koleksiyoncu",
+            "antikacı",
+            "nostalji"
+        ]
+    },
+    {
+        "ask": "Bir bitkinin tohumdan filizlenip büyümesi süreci",
+        "ans": "Çimlenme",
+        "tabkeys": [
+            "bitki",
+            "tohum",
+            "büyüme",
+            "filiz",
+            "doğa",
+            "toprak",
+            "su",
+            "güneş",
+            "aşama",
+            "gelişim"
+        ]
+    },
+    {
+        "ask": "Denizlerde bulunan, kabuklu ve genellikle yenilen hayvanlar",
+        "ans": "Kabuklular",
+        "tabkeys": [
+            "deniz",
+            "hayvan",
+            "kabuk",
+            "deniz ürünleri",
+            "yengeç",
+            "ıstakoz",
+            "midye",
+            "karides",
+            "kabuklu",
+            "su"
+        ]
+    },
+    {
+        "ask": "İnsanların duygu ve düşüncelerini ifade ettiği yazılı eser",
+        "ans": "Roman",
+        "tabkeys": [
+            "yazı",
+            "kitap",
+            "hikaye",
+            "edebiyat",
+            "kurgu",
+            "karakter",
+            "anlatı",
+            "bölüm",
+            "yazar",
+            "okuma"
+        ]
+    },
+    {
+        "ask": "Bir ülkenin ekonomik durumunu gösteren genel göstergeler",
+        "ans": "Makroekonomi",
+        "tabkeys": [
+            "ekonomi",
+            "ülke",
+            "piyasa",
+            "büyüme",
+            "para",
+            "enflasyon",
+            "işsizlik",
+            "faiz",
+            "ticaret",
+            "yatırım"
+        ]
+    },
+    {
+        "ask": "Uzun süreli ve yoğun yağış sonucu oluşan su baskını",
+        "ans": "Sel",
+        "tabkeys": [
+            "yağmur",
+            "su",
+            "baskın",
+            "doğa",
+            "afet",
+            "taşkın",
+            "nehir",
+            "taşma",
+            "hasar",
+            "acil"
+        ]
+    },
+    {
+        "ask": "Güneş sisteminde Dünya'nın uydusu",
+        "ans": "Ay",
+        "tabkeys": [
+            "uydu",
+            "gece",
+            "ışık",
+            "dünya",
+            "evre",
+            "krater",
+            "yörünge",
+            "gökyüzü",
+            "dalga",
+            "gelgit"
+        ]
+    },
+    {
+        "ask": "Elektrik akımını ileten ve devreyi tamamlayan malzeme",
+        "ans": "İletken",
+        "tabkeys": [
+            "elektrik",
+            "akım",
+            "devre",
+            "bakır",
+            "tel",
+            "madde",
+            "akış",
+            "metal",
+            "direnç",
+            "enerji"
+        ]
+    },
+    {
+        "ask": "Uzun süreli açlık veya beslenme yetersizliği sonucu oluşan durum",
+        "ans": "Kıtlık",
+        "tabkeys": [
+            "açlık",
+            "beslenme",
+            "yetersizlik",
+            "gıda",
+            "sorun",
+            "kriz",
+            "fakirlik",
+            "savaş",
+            "yardım",
+            "insani"
+        ]
+    },
+    {
+        "ask": "Bilgisayar programlarının yazıldığı, komutların yazıldığı dil",
+        "ans": "Programlama",
+        "tabkeys": [
+            "kod",
+            "yazılım",
+            "bilgisayar",
+            "dil",
+            "algoritma",
+            "fonksiyon",
+            "değişken",
+            "derleyici",
+            "hata",
+            "debug"
+        ]
+    },
+    {
+        "ask": "Bir ülkenin sınırları içinde yaşayan ve vatandaşlık bağı olan kişiler",
+        "ans": "Nüfus",
+        "tabkeys": [
+            "insan",
+            "vatandaş",
+            "şehir",
+            "ülke",
+            "sayım",
+            "demografi",
+            "artış",
+            "azalış",
+            "kayıt",
+            "göç"
+        ]
+    },
+    {
+        "ask": "Güneşten gelen ışınların dünyaya ulaşmasını engelleyen atmosfer tabakası",
+        "ans": "Ozon Tabakası",
+        "tabkeys": [
+            "atmosfer",
+            "güneş",
+            "ışın",
+            "koruma",
+            "hava",
+            "delik",
+            "zarar",
+            "çevre",
+            "gaz",
+            "ozon"
+        ]
+    },
+    {
+        "ask": "Uzayda bulunan, kendi ışığını yayan devasa gaz küresi",
+        "ans": "Yıldız",
+        "tabkeys": [
+            "uzay",
+            "ışık",
+            "gaz",
+            "güneş",
+            "parlak",
+            "takımyıldızı",
+            "evren",
+            "büyük",
+            "sıcak",
+            "enerji"
+        ]
+    },
+    {
+        "ask": "Bir ülkenin resmi dili, kültür ve iletişim aracı",
+        "ans": "Dil",
+        "tabkeys": [
+            "konuşma",
+            "yazı",
+            "anlam",
+            "iletişim",
+            "kelime",
+            "gramer",
+            "diyalog",
+            "kültür",
+            "öğrenme",
+            "tercüme"
+        ]
+    },
+    {
+        "ask": "Bir cismin hareketini durdurmaya çalışan kuvvet",
+        "ans": "Sürtünme",
+        "tabkeys": [
+            "kuvvet",
+            "hareket",
+            "durdurma",
+            "yüzey",
+            "enerji",
+            "fren",
+            "direnç",
+            "temas",
+            "hareketlilik",
+            "fizik"
+        ]
+    },
+    {
+        "ask": "Bir organizmanın yaşamını sürdürebilmesi için gerekli olan kimyasal süreçler",
+        "ans": "Metabolizma",
+        "tabkeys": [
+            "canlı",
+            "enerji",
+            "kimya",
+            "hücre",
+            "süreç",
+            "besin",
+            "solunum",
+            "dönüşüm",
+            "reaksiyon",
+            "biyoloji"
+        ]
+    },
+    {
+        "ask": "Beynin düşünme, hafıza ve karar verme işlevlerini yöneten organ",
+        "ans": "Beyin",
+        "tabkeys": [
+            "sinir",
+            "organ",
+            "düşünme",
+            "hafıza",
+            "karar",
+            "nöron",
+            "kafa",
+            "merkezi",
+            "bilinç",
+            "zihin"
+        ]
+    },
+    {
+        "ask": "Uzun süreli ve şiddetli rüzgarlarla oluşan tropikal fırtına",
+        "ans": "Kasırga",
+        "tabkeys": [
+            "fırtına",
+            "rüzgar",
+            "tropikal",
+            "yağmur",
+            "sel",
+            "doğa",
+            "afet",
+            "hava",
+            "güç",
+            "fırtına"
+        ]
+    },
+    {
+        "ask": "Güneşin etrafında dönen ve kendi ışığını yaymayan gök cismi",
+        "ans": "Gezegen",
+        "tabkeys": [
+            "uzay",
+            "dönme",
+            "ışık",
+            "güneş",
+            "uydu",
+            "dünya",
+            "mars",
+            "yörünge",
+            "atmosfer",
+            "kütle"
+        ]
+    },
+    {
+        "ask": "Çocukların oynadığı, zıplayarak ilerlenen oyun",
+        "ans": "Seksek",
+        "tabkeys": [
+            "oyun",
+            "çocuk",
+            "zıplamak",
+            "taş",
+            "yer",
+            "çizgi",
+            "eğlence",
+            "adım",
+            "koşmak",
+            "sokak"
+        ]
+    },
+    {
+        "ask": "Bir ülkenin yönetim biçimi, halkın yöneticilerini seçmesi",
+        "ans": "Demokrasi",
+        "tabkeys": [
+            "halk",
+            "seçim",
+            "yönetim",
+            "oy",
+            "özgürlük",
+            "hak",
+            "meclis",
+            "kanun",
+            "adalet",
+            "siyaset"
+        ]
+    },
+    {
+        "ask": "Yazılı veya sözlü olarak bilgi aktarmak için kullanılan araç",
+        "ans": "Dil",
+        "tabkeys": [
+            "konuşma",
+            "yazı",
+            "anlam",
+            "iletişim",
+            "kelime",
+            "gramer",
+            "diyalog",
+            "kültür",
+            "öğrenme",
+            "tercüme"
+        ]
+    },
+    {
+        "ask": "Bir nesnenin hareketini durdurmaya çalışan kuvvet",
+        "ans": "Sürtünme",
+        "tabkeys": [
+            "kuvvet",
+            "hareket",
+            "durdurma",
+            "yüzey",
+            "enerji",
+            "fren",
+            "direnç",
+            "temas",
+            "hareketlilik",
+            "fizik"
+        ]
+    },
+    {
+        "ask": "Canlıların yaşamını sürdürebilmesi için gerekli kimyasal süreçler",
+        "ans": "Metabolizma",
+        "tabkeys": [
+            "canlı",
+            "enerji",
+            "kimya",
+            "hücre",
+            "süreç",
+            "besin",
+            "solunum",
+            "dönüşüm",
+            "reaksiyon",
+            "biyoloji"
+        ]
+    },
+    {
+        "ask": "Dünyanın en uzun su yolu, Afrika'nın kuzeydoğusunda akar",
+        "ans": "Nil Nehri",
+        "tabkeys": [
+            "nehir",
+            "Afrika",
+            "su",
+            "uzun",
+            "akarsu",
+            "vadisi",
+            "delta",
+            "sulama",
+            "Mısır",
+            "kanal"
+        ]
+    },
+    {
+        "ask": "Halk arasında ‘kara ölüm’ olarak bilinen Orta Çağ salgını",
+        "ans": "Veba",
+        "tabkeys": [
+            "salgın",
+            "orta çağ",
+            "hastalık",
+            "ölüm",
+            "bakteri",
+            "fare",
+            "siyah",
+            "leke",
+            "bulaşıcı",
+            "pandemi"
+        ]
+    },
+    {
+        "ask": "Elektrik enerjisini mekanik enerjiye dönüştüren aygıt",
+        "ans": "Motor",
+        "tabkeys": [
+            "elektrik",
+            "enerji",
+            "mekanik",
+            "dönüşüm",
+            "makine",
+            "döner",
+            "güç",
+            "araba",
+            "cihaz",
+            "hareket"
+        ]
+    },
+    {
+        "ask": "Bir ülkenin en yüksek yürütme makamı, devlet başkanı",
+        "ans": "Cumhurbaşkanı",
+        "tabkeys": [
+            "devlet",
+            "başkan",
+            "ülke",
+            "yönetici",
+            "seçim",
+            "hükümet",
+            "meclis",
+            "siyaset",
+            "yetki",
+            "kanun"
+        ]
+    },
+    {
+        "ask": "Bir dildeki kelimelerin ve anlamlarının toplamı",
+        "ans": "Sözlük",
+        "tabkeys": [
+            "kelime",
+            "anlam",
+            "dil",
+            "tanım",
+            "kitap",
+            "okuma",
+            "yazım",
+            "terim",
+            "anlatım",
+            "alfabe"
+        ]
+    },
+    {
+        "ask": "Deniz seviyesinden yüksekliği ölçmek için kullanılan araç",
+        "ans": "Altimetre",
+        "tabkeys": [
+            "yükseklik",
+            "ölçüm",
+            "deniz",
+            "seviye",
+            "cihaz",
+            "pilot",
+            "uçak",
+            "hava",
+            "barometre",
+            "sensör"
+        ]
+    },
+    {
+        "ask": "Halk arasında ‘kızıl hastalık’ olarak da bilinen bulaşıcı hastalık",
+        "ans": "Kızamık",
+        "tabkeys": [
+            "hastalık",
+            "bulaşıcı",
+            "ateş",
+            "döküntü",
+            "çocuk",
+            "virüs",
+            "aşı",
+            "öksürük",
+            "burun",
+            "boğaz"
+        ]
+    },
+    {
+        "ask": "Uzun süreli hafıza kaybına neden olan beyin hastalığı",
+        "ans": "Alzheimer",
+        "tabkeys": [
+            "hafıza",
+            "beyin",
+            "hastalık",
+            "unutkanlık",
+            "yaşlılık",
+            "sinir",
+            "hücre",
+            "demans",
+            "tedavi",
+            "kayıp"
+        ]
+    },
+    {
+        "ask": "Bir cismin hareketini ve konumunu inceleyen bilim dalı",
+        "ans": "Fizik",
+        "tabkeys": [
+            "bilim",
+            "hareket",
+            "enerji",
+            "madde",
+            "doğa",
+            "kuvvet",
+            "ışık",
+            "elektrik",
+            "atom",
+            "formül"
+        ]
+    },
+    {
+        "ask": "Uzun yıllar boyunca kullanılan, tarihi eser niteliğinde eşya",
+        "ans": "Antika",
+        "tabkeys": [
+            "tarih",
+            "eşya",
+            "eski",
+            "koleksiyon",
+            "değer",
+            "müzayede",
+            "sanat",
+            "koleksiyoncu",
+            "antikacı",
+            "nostalji"
+        ]
+    },
+    {
+        "ask": "Bir bitkinin tohumdan filizlenip büyümesi süreci",
+        "ans": "Çimlenme",
+        "tabkeys": [
+            "bitki",
+            "tohum",
+            "büyüme",
+            "filiz",
+            "doğa",
+            "toprak",
+            "su",
+            "güneş",
+            "aşama",
+            "gelişim"
+        ]
+    },
+    {
+        "ask": "Denizlerde bulunan, kabuklu ve genellikle yenilen hayvanlar",
+        "ans": "Kabuklular",
+        "tabkeys": [
+            "deniz",
+            "hayvan",
+            "kabuk",
+            "deniz ürünleri",
+            "yengeç",
+            "ıstakoz",
+            "midye",
+            "karides",
+            "kabuklu",
+            "su"
+        ]
+    },
+    {
+        "ask": "İnsanların duygu ve düşüncelerini ifade ettiği yazılı eser",
+        "ans": "Roman",
+        "tabkeys": [
+            "yazı",
+            "kitap",
+            "hikaye",
+            "edebiyat",
+            "kurgu",
+            "karakter",
+            "anlatı",
+            "bölüm",
+            "yazar",
+            "okuma"
+        ]
+    },
+    {
+        "ask": "Bir ülkenin ekonomik durumunu gösteren genel göstergeler",
+        "ans": "Makroekonomi",
+        "tabkeys": [
+            "ekonomi",
+            "ülke",
+            "piyasa",
+            "büyüme",
+            "para",
+            "enflasyon",
+            "işsizlik",
+            "faiz",
+            "ticaret",
+            "yatırım"
+        ]
+    },
+    {
+        "ask": "Uzun süreli ve yoğun yağış sonucu oluşan su baskını",
+        "ans": "Sel",
+        "tabkeys": [
+            "yağmur",
+            "su",
+            "baskın",
+            "doğa",
+            "afet",
+            "taşkın",
+            "nehir",
+            "taşma",
+            "hasar",
+            "acil"
+        ]
+    },
+    {
+        "ask": "Uzun ve karmaşık yapısıyla insan beyninin en önemli bölümü",
+        "ans": "Serebrum",
+        "tabkeys": [
+            "beyin",
+            "bölüm",
+            "sinir",
+            "düşünme",
+            "hafıza",
+            "korteks",
+            "nöron",
+            "işlem",
+            "bilinç",
+            "zihin"
+        ]
+    },
+    {
+        "ask": "Dünyanın en büyük çölü, Afrika kıtasında yer alır",
+        "ans": "Sahra",
+        "tabkeys": [
+            "çöl",
+            "Afrika",
+            "kum",
+            "sıcak",
+            "kurak",
+            "büyük",
+            "deve",
+            "vaha",
+            "çölleşme",
+            "rüzgar"
+        ]
+    },
+    {
+        "ask": "Elektrik enerjisini kimyasal enerjiye dönüştüren cihaz",
+        "ans": "Akü",
+        "tabkeys": [
+            "elektrik",
+            "enerji",
+            "kimyasal",
+            "batarya",
+            "araba",
+            "şarj",
+            "voltaj",
+            "akım",
+            "depolama",
+            "cihaz"
+        ]
+    },
+    {
+        "ask": "Bitkilerin fotosentez yaparak enerji ürettiği organel",
+        "ans": "Kloroplast",
+        "tabkeys": [
+            "bitki",
+            "fotosentez",
+            "enerji",
+            "organ",
+            "yeşil",
+            "hücre",
+            "klorofil",
+            "güneş",
+            "oksijen",
+            "karbon"
+        ]
+    },
+    {
+        "ask": "Uzay araştırmalarında kullanılan insan yapımı keşif aracı",
+        "ans": "Rover",
+        "tabkeys": [
+            "uzay",
+            "araştırma",
+            "keşif",
+            "araç",
+            "Mars",
+            "tekerlek",
+            "robot",
+            "görev",
+            "kamera",
+            "yüzey"
+        ]
+    },
+    {
+        "ask": "Bir ülkenin yasama organı, kanun yapan kurum",
+        "ans": "Parlamento",
+        "tabkeys": [
+            "kanun",
+            "meclis",
+            "yasama",
+            "siyaset",
+            "milletvekili",
+            "oturum",
+            "karar",
+            "seçim",
+            "hükümet",
+            "demokrasi"
+        ]
+    },
+    {
+        "ask": "Yerin derinliklerinde bulunan, sıcak ve sıvı haldeki kayaçlar",
+        "ans": "Magma",
+        "tabkeys": [
+            "yer",
+            "sıcak",
+            "kaya",
+            "volkan",
+            "erimiş",
+            "lav",
+            "yer kabuğu",
+            "jeoloji",
+            "basınç",
+            "eriyik"
+        ]
+    },
+    {
+        "ask": "İnsan vücudundaki en uzun kemik, bacakta bulunur",
+        "ans": "Uyluk kemiği",
+        "tabkeys": [
+            "kemik",
+            "bacak",
+            "uzun",
+            "kas",
+            "eklem",
+            "vücut",
+            "hareket",
+            "kırık",
+            "tıbbi",
+            "anatomi"
+        ]
+    },
+    {
+        "ask": "Güneş sisteminde Dünya'nın uydusu ve gece gökyüzünün en parlak cismi",
+        "ans": "Ay",
+        "tabkeys": [
+            "uydu",
+            "gece",
+            "ışık",
+            "dünya",
+            "krater",
+            "yörünge",
+            "gelgit",
+            "gökyüzü",
+            "parlak",
+            "fazlar"
+        ]
+    },
+    {
+        "ask": "Yüksek hızlı internet bağlantısı sağlayan teknoloji",
+        "ans": "Fiber optik",
+        "tabkeys": [
+            "internet",
+            "hızlı",
+            "kablo",
+            "ışık",
+            "veri",
+            "iletişim",
+            "teknoloji",
+            "ağ",
+            "fiber",
+            "optik"
+        ]
+    },
+    {
+        "ask": "Bir ülkenin para birimi, ekonomik değişim aracı",
+        "ans": "Döviz",
+        "tabkeys": [
+            "para",
+            "ekonomi",
+            "kur",
+            "alış",
+            "satış",
+            "bank",
+            "ulusal",
+            "yabancı",
+            "borsa",
+            "finans"
+        ]
+    },
+    {
+        "ask": "Bir kimyasal element, doğada altın ve gümüşle birlikte bulunur",
+        "ans": "Platin",
+        "tabkeys": [
+            "element",
+            "metal",
+            "değerli",
+            "altın",
+            "gümüş",
+            "parlak",
+            "ağır",
+            "endüstri",
+            "katalizör",
+            "takı"
+        ]
+    },
+    {
+        "ask": "İnsanların toplandığı, kültürel ve sosyal etkinliklerin yapıldığı yer",
+        "ans": "Kültür merkezi",
+        "tabkeys": [
+            "etkinlik",
+            "toplantı",
+            "sanat",
+            "konser",
+            "sergi",
+            "topluluk",
+            "mekan",
+            "sahne",
+            "müzik",
+            "dans"
+        ]
+    },
+    {
+        "ask": "Dünyanın en uzun nehri, Afrika kıtasında akar",
+        "ans": "Nil Nehri",
+        "tabkeys": [
+            "nehir",
+            "Afrika",
+            "uzun",
+            "su",
+            "akarsu",
+            "vadisi",
+            "delta",
+            "sulama",
+            "Mısır",
+            "kanal"
+        ]
+    },
+    {
+        "ask": "Halk arasında ‘kara ölüm’ olarak bilinen Orta Çağ salgını",
+        "ans": "Veba",
+        "tabkeys": [
+            "salgın",
+            "orta çağ",
+            "hastalık",
+            "ölüm",
+            "bakteri",
+            "fare",
+            "siyah",
+            "leke",
+            "bulaşıcı",
+            "pandemi"
+        ]
+    },
+    {
+        "ask": "Elektrik enerjisini mekanik enerjiye dönüştüren aygıt",
+        "ans": "Motor",
+        "tabkeys": [
+            "elektrik",
+            "enerji",
+            "mekanik",
+            "dönüşüm",
+            "makine",
+            "döner",
+            "güç",
+            "araba",
+            "cihaz",
+            "hareket"
+        ]
+    }
+]
